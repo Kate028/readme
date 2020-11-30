@@ -1,2 +1,9 @@
 # readme
-Hi, I'm Shubham Kumar 👋 I work at the intersection of web &amp; ML to build scalable machines to help customers. I also write about effective ML, learning, and career to help readers. Currently an undergrad CS student and Google Summer Of Code 2020 Developer @Mozilla.  GIF  🔭 I’m currently working on ML projects. 🌱 I’m currently learning GAN, Reactjs, and helping tech community through my writing. 👯 I’m willing to collaborate on building communitites, and research projects in ML. 💬 Ask me about machine learning, web development, and tech related career advice. 📫 How to reach me: shubhamkrai123@gmail.com 😄 Pronouns: He/Him. ⚡ Fun fact: I do Boxing 🥊
+👩🏻 Hi, I'm Kritika Ranjan 👋 
+💻 I love exploring new tools and tech.
+🌺 I’m currently working on Java projects. 
+⌨ learning ML, DS, and contributing to open source.  
+📩 How to reach me: kritikaranjan28@gmail.com.
+✌ Hobbies: Playing chess, sci-fi 🎬, eng 🎶 (EDM)
+😄 Pronouns: Her. 
+⚡ Fun fact: I love to sing eng song and dance like no one is seeing me. 😂(❁´◡`❁)
